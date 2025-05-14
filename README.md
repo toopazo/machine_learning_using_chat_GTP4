@@ -7,5 +7,5 @@
   - En mi opinion las IAs estan avanzando a muy buen ritmo, pero aún no logran hacer un análisis satisfactorio
   - La capacidad para generar código funcional es muy alta y debe ser aprovechada
   - Aun no hay reemplazo para un analista humano especializado. Sin embargo un analista junior proablemente será reemplazado pronto
-- Los detalles de que hay en este repo están en el video https://youtu.be/dU8mfaFik4Y  
-- El dataset utilizado es https://www.kaggle.com/datasets/khushikyad001/air-quality-data
+- Los detalles de que hay en este repo están en el video [https://youtu.be/dU8mfaFik4Y  ](https://youtu.be/SzzEU7ag2Xw)
+- El dataset utilizado es [https://www.kaggle.com/datasets/khushikyad001/air-quality-data](https://www.kaggle.com/datasets/khushikyad001/air-quality-data)
